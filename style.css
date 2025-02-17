@@ -1,1 +1,32 @@
-# test 
+h1 {
+    color:blueviolet;
+    background-color: black;
+    padding: 50px;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+body {
+
+    background-color: black;
+}
+
+p { 
+    color: yellow;
+    font-style: italic;
+    background-color: black;
+    padding: 50px;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+button {
+
+    color:black;
+    font-style: arial;
+    background-color: yellowgreen;
+    padding: 50px;
+    text-align: center;
+}

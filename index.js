@@ -50,6 +50,9 @@ function updateDateTime() {
     updateDateTime();
  });
  
+ function handleCurrencyChange(currency){
+    
+ }
 
 // Wait for the DOM to be fully loaded before setting up event listeners
 document.addEventListener("DOMContentLoaded", function() {
