@@ -9,7 +9,7 @@ h1 {
 
 body {
 
-    background-color: black;
+    background-color: gray;
 }
 
 p { 
@@ -27,7 +27,7 @@ button {
     color:black;
     font-style: arial;
     background-color: yellowgreen;
-    padding: 80px;
+    padding: 50px;
     text-align: center;
 }
 
